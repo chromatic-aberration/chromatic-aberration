@@ -1,4 +1,4 @@
-```python
-print('Hello World!')
+```rust
+println!("Hello World!")
 ```
 
